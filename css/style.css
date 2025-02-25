@@ -5,4 +5,10 @@
 .section2{
     background-color: bisque;
     font-style: italic;
+    color: red;
+}
+
+.section2:hover{
+    color: black;
+    cursor: pointer;
 }
