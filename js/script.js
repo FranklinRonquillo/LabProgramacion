@@ -1,6 +1,6 @@
 const tarjetas = document.getElementById('tarjetas')
 
-fetch('./json/datos.json')
+fetch('https://johnfredyb.github.io/mars-photos-api/mars_photos.json')
 .then(response => response.json())
 .then(data =>{
     data.forEach(foto =>{
@@ -9,11 +9,11 @@ fetch('./json/datos.json')
         tarjeta.classList.add('tarjeta')
 
         const  imagen = document.createElement('img')
-        imagen.src = foto.img
+        imagen.src = foto.img_src
         imagen.alt = foto.description
 
         const descripcion = document.createElement('p')
-        descripcion.textContent = foto.descripcion
+        descripcion.textContent = foto.description
 
         tarjeta.appendChild(imagen)
         tarjeta.appendChild(descripcion)
