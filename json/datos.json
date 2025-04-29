@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "titulo": "Reloj de pulsera clásico",
+        "descripcion": "Reloj analógico elegante con correa de cuero marrón y carcasa de acero.",
+        "img": "https://media.istockphoto.com/id/590301362/photo/the-groom-in-dark-suit-puts-on-a-watch-closeup.jpg?s=1024x1024&w=is&k=20&c=7xRiSrRuZS6haV02xTTwSn8j8uPBt4NbYNec3_pR5qA="
+    },
+    {
+        "id": 2,
+        "titulo": "Bicicleta de montaña",
+        "descripcion": "Bicicleta con suspensión para terrenos difíciles, ideal para ciclismo en la naturaleza.",
+        "img": "https://media.istockphoto.com/id/1430639978/es/foto/comenzando-la-bicicleta-de-monta%C3%B1a-cuesta-abajo.jpg?s=1024x1024&w=is&k=20&c=yU4FG17KcjJqas8ShcZFF8npkg9QVONJtxw5Q6V--Oo="
+    },
+    {
+        "id": 3,
+        "titulo": "Cámara fotográfica réflex",
+        "descripcion": "Cámara DSLR profesional, perfecta para fotografía de retrato, naturaleza o viajes.",
+        "img": "https://media.istockphoto.com/id/1197293271/es/foto/un-hombre-sostiene-una-c%C3%A1mara-en-sus-manos-y-toma-fotos-foto-te%C3%B1ida.jpg?s=1024x1024&w=is&k=20&c=GFLDPkotG8hR-YcWgg2mnJ5iisez6MZo8aUBq0tsz5w="
+    },
+    {
+        "id": 4,
+        "titulo": "Zapatillas deportivas",
+        "descripcion": "Calzado ligero y cómodo para entrenamientos, con diseño moderno y suela antideslizante.",
+        "img": "https://media.istockphoto.com/id/1249496770/es/foto/zapatillas.jpg?s=1024x1024&w=is&k=20&c=O9DkkBPWJM2dhq25b-7vlKWtfoMEzCsfUa_e9PeTx78="
+    },
+    {
+        "id": 5,
+        "titulo": "Mochila de viaje resistente",
+        "descripcion": "Mochila duradera con múltiples bolsillos, ideal para excursiones largas o viajes urbanos.",
+        "img": "https://media.istockphoto.com/id/522001452/es/foto/mujer-viajeros-con-mochila-sentado-en-el-borde.jpg?s=1024x1024&w=is&k=20&c=9ubBeBBmF0grd7vWgISz8d9rYku5tFPx0JadfOJoETY="
+    }
+]
