@@ -1,6 +1,6 @@
 const tarjetas = document.getElementById('tarjetas')
 
-fetch('..json/datos.json')
+fetch('./json/datos.json')
 .then(response => response.json())
 .then(data =>{
     data.forEach(foto =>{
